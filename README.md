@@ -15,7 +15,7 @@ In the course of this project, students were furnished with essential project fi
 
 ## Installation
 To set up and view this project locally, follow these steps:
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine
 2. Open the project folder in your preferred text editor.
 3. Open the `index.html` file in a web browser.
 
@@ -25,6 +25,7 @@ To set up and view this project locally, follow these steps:
 <img width="1381" alt="Screenshot 2023-11-13 at 16 24 14" src="https://github.com/RaphaGil/horiseon-code-refactor/assets/128820385/e1f33bd1-d59a-482b-8972-af533846ec7f">
 
 
+<img width="1381" alt="Screenshot 2023-11-13 at 18 31 11" src="https://github.com/RaphaGil/horiseon-code-refactor/assets/128820385/67834a82-f27e-44ba-9519-6ed671af9a4c">
 
 
 ## Usage
