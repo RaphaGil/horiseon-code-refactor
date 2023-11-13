@@ -22,6 +22,10 @@ To set up and view this project locally, follow these steps:
 ## Screemshots
 <img width="1426" alt="Screenshot 2023-11-13 at 16 17 17" src="https://github.com/RaphaGil/horiseon-code-refactor/assets/128820385/fcf098be-d92c-4148-abae-cc81fb97ebba">
 
+<img width="1381" alt="Screenshot 2023-11-13 at 16 24 14" src="https://github.com/RaphaGil/horiseon-code-refactor/assets/128820385/e1f33bd1-d59a-482b-8972-af533846ec7f">
+
+
+
 
 ## Usage
 Explore and study the codebase to understand the implementation of HTML and CSS. Experiment with making changes and observe their effects on the webpage. Additionally, open the project in a browser to see the visual presentation.
