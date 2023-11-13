@@ -1,35 +1,39 @@
 # horiseon-code-refactor
 
 ## Description
-This is our first project that 
+Welcome to my inaugural project in the front-end web developer bootcamp! This endeavor served as a practical exploration of HTML and CSS, specifically honing my skills in naming divs, incorporating alt attributes for images, transitioning from divs to semantic elements, and understanding the nuances of display properties like inline, inline-block, and block.
 
+In the course of this project, students were furnished with essential project files, allowing us to implement the necessary updates. Additionally, we delved into the intricacies of deploying files and navigating the terminal using commands such as git add ., git commit -m "<message>", and git push origin main to seamlessly synchronize changes with GitHub.
 
-This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
-
-
-At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out?
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-
-## Description
-
-This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [Credits](#credits)
+- [License](#license)
 
 ## Installation
-
-N/A
+To set up and view this project locally, follow these steps:
+1. Clone the repository to your local machine.
+2. Open the project folder in your preferred text editor.
+3. Open the `index.html` file in a web browser.
 
 ## Usage
+Explore and study the codebase to understand the implementation of HTML and CSS. Experiment with making changes and observe their effects on the webpage. Additionally, open the project in a browser to see the visual presentation.
 
-To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+## Features
+- Basic HTML structure
+- CSS styling for page elements
+- Clear separation of content using divs and semantic HTML elements
+
+## Contributing
+If you're also learning web development and want to contribute or provide feedback, feel free to fork the repository and submit a pull request. Contributions and suggestions are welcome!
 
 ## Credits
-
-N/A
+- [Online CSS and HTML tutorials]
+- [BootCamp instructor's guidance]
+- [Any additional resources or inspirations]
 
 ## License
-
-Please refer to the LICENSE in the repo.
+This project is licensed under the [MIT License](LICENSE).
