@@ -19,6 +19,10 @@ To set up and view this project locally, follow these steps:
 2. Open the project folder in your preferred text editor.
 3. Open the `index.html` file in a web browser.
 
+## Screemshots
+<img width="1426" alt="Screenshot 2023-11-13 at 16 17 17" src="https://github.com/RaphaGil/horiseon-code-refactor/assets/128820385/fcf098be-d92c-4148-abae-cc81fb97ebba">
+
+
 ## Usage
 Explore and study the codebase to understand the implementation of HTML and CSS. Experiment with making changes and observe their effects on the webpage. Additionally, open the project in a browser to see the visual presentation.
 
